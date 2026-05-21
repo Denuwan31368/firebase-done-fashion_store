@@ -21,4 +21,4 @@ coding by A.M.D.C Pilimathalawwa
 
 CIT211-Mobile Software Development
 Mid Exam + Final Assignment Specification
-Submission Phase_01
+Submission Phase_01 and 02
